@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    max-width: 100%;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: bisque;
+    border: 20px;
+}
+p {
+    font-weight: 700;
+}
+    
+.h {
+    background-color: rgb(73, 182, 245);
+}
